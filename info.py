@@ -1,4 +1,4 @@
-API_TOKEN = '6736021619:AAGWYHMXLZ4r0I2YZA-OW5tQBN9mhJY7XN8'
+API_TOKEN = '???'
 
 text_1 = '''
 Приветствую вас, астрологи!
